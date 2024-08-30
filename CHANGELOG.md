@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.1.0](https://github.com/eslint/markdown/compare/v6.0.0...v6.1.0) (2024-08-30)
+
+
+### Features
+
+* JSR package ([#271](https://github.com/eslint/markdown/issues/271)) ([7040a2e](https://github.com/eslint/markdown/commit/7040a2e3b9b4e1a49cf4b86dbe1ce6c52535d55e))
+
 ## [6.0.0](https://github.com/eslint/markdown/compare/v5.1.0...v6.0.0) (2024-08-21)
 
 
